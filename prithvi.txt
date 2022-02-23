@@ -4,4 +4,4 @@ if buz < 10:
    print('less than 10')
    if buz>10:
       print('greater than 10')
-
+#donhttps://github.com/Prithvi2801/Prithvi.githttps://github.com/Prithvi2801/Prithvi.gite
